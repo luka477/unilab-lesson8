@@ -1,0 +1,74 @@
+.html {
+	margin-top: 20.5px;
+	margin-left: 97.9px;
+}
+.header-1 {
+	width: 100%;
+	background-color: white;
+	display: flex;
+	position: fixed;
+}
+.nav-ul {
+	display: flex;
+	width: 408px;
+	justify-content: space-between;
+}
+.navigation {
+	margin-left: 103.4px;
+	margin-top:47px;
+}
+.nav-li {
+	font-size: 24px;
+	color: #3D58A6;
+}
+.fa-google-plus-g {
+	color: #3D58A6;
+	font-size: 40px;
+}
+.fa-google-plus-g::after{
+	content: "";
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 19px;
+}
+.clear {
+	clear: both;
+}
+.logos {
+	display: flex;
+	margin-top: 34px;
+	width: 306px;
+	justify-content: space-between;
+	margin-left: 155.6px;
+}
+.fa-facebook-f {
+	color: #3D58A6;
+	font-size: 33px;
+	padding-top: 5px;
+}
+.fa-facebook-f::after{
+	content: "";
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 19px;
+}
+.fa-youtube::after {
+	content: "";
+	display: inline-block;
+	width: 2px;
+	height: 27px;
+	background-color: #363E97;
+	margin-left: 19px;
+}
+.fa-youtube {
+	color: #3D58A6;
+	font-size: 40px;
+}
+.fa-search {
+	color: red;
+	font-size: 40px;
+}
