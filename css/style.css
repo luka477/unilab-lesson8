@@ -1,12 +1,16 @@
 .html {
 	margin-top: 20.5px;
 	margin-left: 97.9px;
+	padding-bottom: 20px;
 }
 .header-1 {
 	width: 100%;
 	background-color: white;
 	display: flex;
 	position: fixed;
+	top:0;
+	left:0;
+	z-index: 5;
 }
 .nav-ul {
 	display: flex;
@@ -71,4 +75,26 @@
 .fa-search {
 	color: red;
 	font-size: 40px;
+}
+.image-wraper {
+	position: relative;
+}
+.text-wraper {
+	position: absolute;
+	width: 339px;
+	height: 147px;
+	top: 291.2px;
+	left: 128px;
+	font-size: 30px;
+	color: white;
+}
+.section {
+	background-color: #E6E6E6;
+	width: 100%;
+	margin-top: 114px;
+}
+.img1 {
+	margin-top: 30px;
+	margin-left: 98px;
+	margin-bottom: 30px;
 }
