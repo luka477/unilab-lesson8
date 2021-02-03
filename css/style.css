@@ -98,3 +98,28 @@
 	margin-left: 98px;
 	margin-bottom: 30px;
 }
+.secondsection {
+	display: flex;
+	width: 1170px;
+	margin-top: 27.8px;
+	margin-left: 99.5px;
+	justify-content: space-between;
+	padding-bottom: 89.6px;
+}
+.smalldiv {
+	width: 570px;
+	height: 320px;
+	background-color: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.section-2 {
+	background-color: #363E97;
+	width: 100%
+}
+.sectiontext {
+	font-size: 24px;
+	padding-top: 30px;
+	margin-left: 99.5px;
+}
