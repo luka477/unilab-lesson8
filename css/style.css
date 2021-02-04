@@ -167,7 +167,6 @@
 	justify-content: space-between;
 	padding-left: 38.8px;
 	margin-top: 12.7px;
-	padding-bottom: 41.7px;
 }
 .inintext {
 	font-size: 20px;
@@ -179,4 +178,22 @@
 	padding-left: 20.8px;
 	font-size: 22px;
 	color: #3D58A6;
+}
+.readmore {
+	display: flex;
+	justify-content: flex-end;
+	padding-bottom: 14.6px;
+	padding-right: 9px;
+	margin-top: 9.1px;
+}
+.lastdiv {
+	width: 1174px;
+	display: flex;
+	justify-content: space-between;
+	margin-top: 22px;
+	margin-left: 97px;
+	padding-bottom: 21px;
+}
+.lasttext {
+	font-size: 12px;
 }
