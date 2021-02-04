@@ -145,3 +145,38 @@
 	margin-top: 27.5px;
 	padding-bottom: 90px;
 }
+.section-4 {
+	width: 100%;
+	background-color: #E6E6E6;
+}
+.indiv-2 {
+	display: flex;
+	width: 1171px;
+	justify-content: space-between;
+	margin-left: 98px;
+	margin-top: 29.8px;
+	padding-bottom: 30.7px;
+}
+.inindiv {
+	width: 570px;
+	background-color: #F2F2F2;
+}
+.ininindiv {
+	width: 515px;
+	display: flex;
+	justify-content: space-between;
+	padding-left: 38.8px;
+	margin-top: 12.7px;
+	padding-bottom: 41.7px;
+}
+.inintext {
+	font-size: 20px;
+	width: 355px;
+	padding-top: 25px;
+}
+.inintext1 {
+	padding-top: 11.1px;
+	padding-left: 20.8px;
+	font-size: 22px;
+	color: #3D58A6;
+}
