@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,900;1,100;1,300&display=swap');
 .html {
 	margin-top: 20.5px;
 	margin-left: 97.9px;
@@ -24,6 +27,7 @@
 .nav-li {
 	font-size: 24px;
 	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
 }
 .fa-google-plus-g {
 	color: #3D58A6;
@@ -87,6 +91,7 @@
 	left: 128px;
 	font-size: 30px;
 	color: white;
+	font-family: 'Roboto', sans-serif;
 }
 .section {
 	background-color: #E6E6E6;
@@ -122,6 +127,12 @@
 	font-size: 24px;
 	padding-top: 30px;
 	margin-left: 99.5px;
+	font-family: 'Roboto', sans-serif;
+	color: black;
+}
+.EMBEDED {
+	font-size: 16.85;
+	font-family: 'Roboto', sans-serif;
 }
 .section-3 {
 	width: 100%;
@@ -136,6 +147,7 @@
 	margin-top: 13.7px;
 	padding-left: 14.1px;
 	padding-bottom: 17px;
+	font-family: 'Roboto', sans-serif;
 }
 .div-3 {
 	display: flex;
@@ -172,12 +184,14 @@
 	font-size: 20px;
 	width: 355px;
 	padding-top: 25px;
+	font-family: 'Roboto', sans-serif;
 }
 .inintext1 {
 	padding-top: 11.1px;
 	padding-left: 20.8px;
 	font-size: 22px;
 	color: #3D58A6;
+	font-family: 'Roboto', sans-serif;
 }
 .readmore {
 	display: flex;
