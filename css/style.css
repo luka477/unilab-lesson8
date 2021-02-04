@@ -123,3 +123,25 @@
 	padding-top: 30px;
 	margin-left: 99.5px;
 }
+.section-3 {
+	width: 100%;
+	background-color:#BDCCD4;
+}
+.indiv-1 {
+	width: 270px;
+	background-color: #E6E6E6;
+}
+.indivtext {
+	font-size: 22px;
+	margin-top: 13.7px;
+	padding-left: 14.1px;
+	padding-bottom: 17px;
+}
+.div-3 {
+	display: flex;
+	width: 1174px;
+	justify-content: space-between;
+	margin-left: 98px;
+	margin-top: 27.5px;
+	padding-bottom: 90px;
+}
